@@ -14,7 +14,7 @@ int main()
     cin >> n;
 
     if (n == 0)
-        cout << "Number is Zero " << end;
+        cout << "Number is Zero " << endl;
     else if (n > 0)
         cout << "Number is Positive " << endl;
     else
